@@ -5,7 +5,7 @@ Users can browse items, add them to the cart, adjust quantities, remove products
 
 ---
 
-## 🚀 Features
+## 🚀 Features....
 
 - 🧾 View available items with dynamic pricing  
 - ➕ Add / remove items from the cart  
